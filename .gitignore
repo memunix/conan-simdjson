@@ -1,0 +1,14 @@
+test_package/build
+conaninfo.txt
+conanbuildinfo.txt
+conanbuildinfo.cmake
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+Makefile
+*.a
+
+.ccls-cache
+.vscode
+graph_info.json
+build
